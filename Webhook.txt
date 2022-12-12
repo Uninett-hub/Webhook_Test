@@ -4,7 +4,3 @@ Testing web hook
 3
 second commit
 123465
-AN;SAND;FNA;D
-ASBDIANBDSFIN
-asdfjaspodj
-ansdnfasdnf
